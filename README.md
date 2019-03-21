@@ -38,20 +38,13 @@ Welcome to the Github of the TEVO Nereus 3D printer - you find here the latest f
 
 ## Additional links
 
-- TEVO Nereus Infos: 
-https://www.tevo.cn/products/3d-printers/tevo-nereus/
-- TEVO Nereus FAQ: 
-https://help.tevo.cn/faq-categories/tevo-nereus/
+- TEVO Nereus Infos: https://www.tevo.cn/products/3d-printers/tevo-nereus/
+- TEVO Nereus FAQ: https://help.tevo.cn/faq-categories/tevo-nereus/
 
-- TEVO Website: 
-https://www.tevo.cn/
-- TEVO Support: 
-https://help.tevo.cn/
+- TEVO Website: https://www.tevo.cn/
+- TEVO Support: https://help.tevo.cn/
 
-- TEVO Official Webshop: 
-https://tevo3dprinterstore.com
-- TEVO Aliexpress Shop: 
-https://tevo.aliexpress.com/store/2010004
-- TEVO Amazon Store: 
-https://www.amazon.com/stores/node/9447801011
+- TEVO Official Webshop: https://tevo3dprinterstore.com
+- TEVO Aliexpress Shop: https://tevo.aliexpress.com/store/2010004
+- TEVO Amazon Store: https://www.amazon.com/stores/node/9447801011
 
